@@ -6,11 +6,9 @@ Google Map을 통해 지도를 보여 줄 수 있음
 
 # 결과화면
 |Screenshot1|Screenshot2|
+|---|---|
 |<img src="./screenshot/1.png"/>|<img src="./screenshot/2.png"/>|
-|---|---|
-|Screenshot3|Screenshot4|
 |<img src="./screenshot/3.png"/>|<img src="./screenshot/4.png"/>|
-|---|---|
 
 </br>
 
